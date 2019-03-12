@@ -1,0 +1,11 @@
+what is the use of DbContext and How it works?
+
+Basicaly DbContext is instance of data base that can bridge between entity class or domain classes to database.
+DbContext is primary class and it is responsible for intracting with database.
+
+It is responsible for the following activities:
+
+//TO DO
+
+Learn more about DBContex and types
+and understand how to approach link to sql 
