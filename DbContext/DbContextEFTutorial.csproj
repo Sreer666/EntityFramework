@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbContextEFTutorials.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <!--<Compile Include="Properties\AssemblyInfo.cs" />-->
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
